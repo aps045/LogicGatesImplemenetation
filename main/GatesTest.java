@@ -1,3 +1,5 @@
+// @author:Aditya
+
 package main;
 
 import gates.NOTGate;
