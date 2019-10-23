@@ -1,3 +1,5 @@
+// @author:Aditya
+
 package gates;
 
 public class NOTGate {
